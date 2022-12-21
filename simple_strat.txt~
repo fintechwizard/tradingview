@@ -1,6 +1,7 @@
 
 // © DrDan85
 
+
 //@version=5
 
 strategy(title='simple_strat', shorttitle='simple_strat', overlay=true, pyramiding=0, calc_on_every_tick=true, default_qty_type=strategy.cash, default_qty_value=100, initial_capital=100, currency=currency.USD, process_orders_on_close=true)

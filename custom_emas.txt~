@@ -1,6 +1,4 @@
 
-// © DrDan85
-
 //@version=5
 indicator(title='custom_emas', shorttitle='custom_emas', overlay=true)
 

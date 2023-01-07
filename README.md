@@ -11,11 +11,9 @@ Welcome to the Custom Trading View Indicators repository! Here you will find a c
 To use these indicators in your Trading View charts, follow these steps:
 
 1. Download the indicator file(s) from the **Indicators** folder in this repository.
-2. Open Trading View and navigate to the **Indicators** tab in the chart settings.
-3. Click the **Import** button.
-4. Copy and paste the script into an empty pine editor window.
-5. Save and add to chart.
-6. The indicator(s) will now be available to use in your charts.
+2. Copy and paste the script into an empty pine editor window.
+3. Save and add to chart.
+4. The indicator(s) will now be available to use in your charts.
 
 ## Available Indicators
 

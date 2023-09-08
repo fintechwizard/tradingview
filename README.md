@@ -1,12 +1,12 @@
-# Custom Trading View Indicators!
+# Free Custom Trading View Indicators!
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/107593481/211108314-57547745-12b7-4e1a-b782-924866500dd6.png">
 </p>
 
-Welcome to the Custom Trading View Indicators repository! Here you will find a collection of high-quality custom indicators for use in [Trading View](https://www.tradingview.com/).
+Welcome to the Custom Trading View Indicators repository from <b>eVOLV</b>! Here you will find a collection of high-quality custom indicators for use in [Trading View](https://www.tradingview.com/).
 
-## Installation
+## How To Use Them
 
 To use these indicators in your Trading View charts, follow these steps:
 
@@ -37,6 +37,24 @@ We welcome contributions to this repository. If you have created a custom indica
 
 If you have any questions or need help using these indicators, please open an issue in the repository.
 
-## License
+<h3>Customization Tailored to Your Needs</h3>
 
-The indicators in this repository are all written and tested by us using pine script version 5.
+These indicators were written by <b>eVOLV</b> using PineScript v5. They are highly customizable to meet your specific requirements. Whether you want to use them for backtesting or want to integrate them into a strategy, we're here to adapt them to your needs.
+   
+<h3>Get in Touch</h3>
+
+Have any questions or want to explore the possibilities of our collaboration further? Our team is just a message away. We're eager to hear about your project and discuss how we can help you achieve your goals.
+
+Feel free to reach out to us at [contact@evolv.com](mailto:contact@evolv.com), and let's start crafting your ideal TradingView solutions.
+
+Thank you for choosing eVOLV. We look forward to partnering with you on your journey to a more efficient and eVOLVED company.
+
+Furthermore, if you feel so inclined and have found my free indicators useful, I would be delighted if you were to consider purchasing me a virtual coffee as a way of showing your support. I assure you that any contributions, no matter how small, would be greatly appreciated and put to good use as I continue to dedicate myself to creating high-quality projects.
+
+<br>
+<br>
+<p  align="center">
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="devops_wizard" /></a>
+</p>
+
+[Visit our website](https://www.evolv.com) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)

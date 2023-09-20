@@ -45,15 +45,18 @@ These indicators were written by <b>eVOLV</b> using PineScript v5. They are high
 
 Have any questions or want to explore the possibilities of our collaboration further? Our team is just a message away. We're eager to hear about your project and discuss how we can help you achieve your goals.
 
-Feel free to reach out to us at [contact@evolv.com](mailto:contact@evolv.com), and let's start crafting your ideal TradingView solutions.
+Feel free to reach out to us at [info@evolv.website](mailto:info@evolv.website), and let's start crafting your ideal TradingView solutions.
 
 Thank you for choosing eVOLV. We look forward to partnering with you on your journey to a more efficient and eVOLVED company.
 
 Furthermore, if you feel so inclined and have found my free indicators useful, I would be delighted if you were to consider purchasing me a virtual coffee as a way of showing your support. I assure you that any contributions, no matter how small, would be greatly appreciated and put to good use as I continue to dedicate myself to creating high-quality projects.
 
-<p  align="center">
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="devops_wizard" /></a>
+<p align="center">
+  <a href="https://evolv.website/#WalletDonation" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="devops_wizard" />
+  </a>
 </p>
+
 <br>
 
-[Visit our website](https://www.evolv.com) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)
+[Visit our website](https://www.evolv.website) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)

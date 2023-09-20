@@ -59,4 +59,4 @@ Furthermore, if you feel so inclined and have found my free indicators useful, I
 
 <br>
 
-[Visit our website](https://www.evolv.website) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)
+[Visit our website](https://www.evolv.website) | [GitHub Repository](https://github.com/fintechwizard/tradingview)

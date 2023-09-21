@@ -1,6 +1,3 @@
-
-// © DrDan85
-
 //@version=5
 indicator(title='custom_atr', shorttitle='custom_atr', overlay=true)
 

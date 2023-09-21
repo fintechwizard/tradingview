@@ -1,6 +1,3 @@
-
-// © DrDan85
-
 //@version=5
 indicator('custom_pivots', shorttitle='custom_pivots', overlay=true, max_lines_count=500)
 higherTF = input.timeframe('D', title='Pivot Points Timeframe')

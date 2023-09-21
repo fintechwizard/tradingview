@@ -1,6 +1,3 @@
-
-// © DrDan85
-
 //@version=5
 indicator(title='custom_rsi', shorttitle='custom_rsi', format=format.price)
 

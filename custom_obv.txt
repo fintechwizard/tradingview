@@ -1,6 +1,3 @@
-
-// © DrDan85
-
 //@version=5
 indicator('custom_obv', 'custom_obv', precision=0)
 period = input(200, 'Length')
